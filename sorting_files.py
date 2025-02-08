@@ -32,5 +32,5 @@ def organize_files(directory):
             print('error')
 
 
-directory_path = r'C:\Users\dasre\Desktop'  # Укажите путь к вашей директории
+directory_path = r'your path'  # Укажите путь к вашей директории|Specify the path to your directory
 organize_files(directory_path)
